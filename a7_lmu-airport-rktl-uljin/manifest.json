@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "content_type": "SCENERY",
+  "title": "Uljin Airport",
+  "manufacturer": "a7_lmu",
+  "creator": "a7_lmu",
+  "package_version": "0.7.0",
+  "minimum_game_version": "1.23.12",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": ""
+    }
+  }
+}

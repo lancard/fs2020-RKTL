@@ -1,0 +1,19 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/a7_lmu-airport-rktl-uljin/Thumbnail.jpg",
+      "size": 1238,
+      "date": 132724668831035721
+    },
+    {
+      "path": "scenery/a7_lmu/Polygon.bgl",
+      "size": 567,
+      "date": 132917339920935343
+    },
+    {
+      "path": "scenery/a7_lmu/RKTL.bgl",
+      "size": 37258,
+      "date": 132917339920885482
+    }
+  ]
+}
